@@ -1,0 +1,24 @@
+{
+  "name": "backend-miniproject-01",
+  "version": "1.0.0",
+  "description": "It is y first backend mini project and I am Beginning with my journey of backend development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/challenger2229/Backend-MiniProject-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/challenger2229/Backend-MiniProject-01/issues"
+  },
+  "homepage": "https://github.com/challenger2229/Backend-MiniProject-01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
